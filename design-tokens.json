@@ -3,6 +3,10 @@
 		"pink": {
 			"value": "#db3170",
 			"type": "color"
+		},
+		"green": {
+			"value": "#27a342",
+			"type": "color"
 		}
 	}
 }
