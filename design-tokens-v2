@@ -1,0 +1,12 @@
+{
+	"MorcoTokensV2": {
+		"pink": {
+			"value": "#db3170",
+			"type": "color"
+		},
+		"blue": {
+			"value": "#1790dc",
+			"type": "color"
+		}
+	}
+}
